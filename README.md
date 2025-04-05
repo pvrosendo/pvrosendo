@@ -1,18 +1,14 @@
 ## Olá, eu sou o Paulo Vitor! 👋😀
 
-
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-vitor-rosendo/)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.gitlab.com/pvrosendo)
 [![Gitlab](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulovitor.rsd@gmail.com)
-
 
 ### Skills
 
 > Tecnologias que uso:
 
 Aqui estão as tecnologias que continuo estudando e praticando. Apesar de gostar de aprender bastante sobre tudo, essas são atualmente o meu foco.
-
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -36,7 +32,6 @@ Essas são as tecnologias que em algum momento já utilizei para projetos, traba
 ---
 
 > Tecnologias mais utilizadas nos repositórios
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvrosendo&layout=compact&theme=tokyonight)](https://github.com/pvrosendo/)
 
