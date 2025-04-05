@@ -23,21 +23,20 @@ Aqui estão as tecnologias que continuo estudando e praticando. Apesar de gostar
 
 ---
 
-
-> Tecnologias que já tive contato/possuo conhecimento:
+> Tecnologias que já tive contato:
 
 Essas são as tecnologias que em algum momento já utilizei para projetos, trabalhos entre outras atividades; mas que atualmente não são meu foco de estudo.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ---
 
 > Tecnologias mais utilizadas nos repositórios
 
-O gráfico demonstra as tecnologias mais utilizadas nos repositórios que deixo público.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvrosendo&layout=compact&theme=tokyonight)](https://github.com/pvrosendo/)
 
