@@ -11,7 +11,7 @@ Quer trocar uma ideia? Entre em contato! Será um prazer falar com você!
 [![Gitlab](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulovitor.rsd@gmail.com)
 
 
-E fique a vontade também para dar uma olhada no meu site: https://pvrosendo.vercel.app/
+E fique a vontade também para dar uma olhada no meu site: https://pvrosendo.is-a.dev/
 
 
 ### Tecnologias
